@@ -5,7 +5,7 @@ There are **so many** amazing and powerful data analysis/BI tools out there! Pow
 
 ## Overview
 This project is a **simple Power BI dashboard** designed to help analyze **department budgets and project costs**. The goal is to identify which departments or projects might be **over budget** or **underperforming** and to check if a **one-year budget** could cover all expenses instead of two years.
-All the data comes from Absent Data data analytics course (https://absentdata.com/data-analysis/data-analysis-end-to-end-project/). This tutorial includes building SQL database, but I decided to do this project entirely in Power Query and Power BI.
+All the data comes from Absent Data data analytics course (https://absentdata.com/data-analysis/data-analysis-end-to-end-project/). This tutorial includes building SQL database, but I decided to do this project entirely in Power Query and Power BI. Some of the source csv files can be found it the "project files" folder. 
 
 ## Data Processing
 - **Data Loaded from CSV Files** and cleaned in **Power Query**.
