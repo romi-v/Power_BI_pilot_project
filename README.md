@@ -9,7 +9,7 @@ All the data comes from Absent Data data analytics course (https://absentdata.co
 
 ## Data Processing
 - **Data Loaded from CSV Files** and cleaned in **Power Query**.
-- **Merged Tables** to include department, project, and employee details.
+- **Created an Overview Table** by merging selected columns from multiple tables to get a summary of department, project, and employee details.
 - **Calculated Budget Utilization Ratios** to compare costs vs. budget.
 - **Basic Conditional Formatting** to highlight underused budgets.
 
